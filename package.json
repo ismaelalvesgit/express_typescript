@@ -43,7 +43,7 @@
     "helmet": "^3.21.2",
     "nodemailer": "^6.3.0",
     "path": "^0.12.7",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.0",
